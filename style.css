@@ -7,7 +7,10 @@ body {
   color: var(--brand-color);
   background-color: #ffffff;
 }
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   margin: 0;
   padding: 0;
 }
@@ -27,7 +30,6 @@ img {
   padding: 0 15px;
   align-items: center;
   margin: 0 auto;
-  
 }
 
 .row {
@@ -119,9 +121,10 @@ img {
   background: var(--beside-color);
   border-radius: 4px;
   line-height: 1.8;
-  width: 200px;}
+  width: 200px;
+}
 
-  .section-solution .container {
+.section-solution .container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -171,8 +174,6 @@ img {
   color: #212121;
   text-align: center;
   padding-bottom: 50px;
-  
-
 }
 .contact {
   display: flex;
@@ -192,7 +193,6 @@ img {
   height: 600px;
 }
 
-
 .container-section-one {
   width: 1170px;
   margin-bottom: 94px;
@@ -208,7 +208,6 @@ img {
   max-width: 696px;
   padding-top: 200px;
   padding-bottom: 30px;
- 
 }
 
 .heading {
@@ -229,7 +228,6 @@ img {
   line-height: 1.7;
   color: var(--brand-color);
   padding-right: 30px;
-  
 }
 
 .header {
@@ -245,7 +243,6 @@ img {
   align-items: center;
   margin-right: 30px;
   margin-left: auto;
-  
 }
 .white {
   background-color: #ffffff;
@@ -254,7 +251,6 @@ img {
 
   margin-right: 30px;
   width: 270px;
- 
 }
 .white:first-child {
   margin-left: 0px;
@@ -294,8 +290,6 @@ img {
   text-decoration: none;
   color: #ffffff;
   background-color: #2f303a;
-  
- 
 }
 .footer-header {
   background-color: #2f303a;
@@ -304,16 +298,14 @@ img {
   font-weight: 700;
   text-decoration: none;
   width: 145px;
-  
 }
 .footer-heading {
   display: flex;
   flex-direction: column;
-  align-items:left;
+  align-items: left;
   padding-top: 9px;
   padding-bottom: 9px;
-   list-style: none;
-  
+  list-style: none;
 }
 .footer-contact {
   color: #ffffff;
@@ -351,7 +343,6 @@ img {
   align-items: center;
   margin-right: 8px;
   margin-left: auto;
-  
 }
 .button-2 {
   display: flex;
@@ -359,7 +350,6 @@ img {
   padding: 6px 22px;
   align-items: center;
   margin-right: 8px;
-  
 }
 .button-3 {
   display: flex;
@@ -367,7 +357,6 @@ img {
   padding: 6px 22px;
   align-items: center;
   margin-right: 8px;
-
 }
 .button-4 {
   display: flex;
@@ -375,7 +364,6 @@ img {
   padding: 6px 22px;
   align-items: center;
   margin-right: 8px;
-  
 }
 .button-5 {
   display: flex;
@@ -383,7 +371,6 @@ img {
   padding: 6px 22px;
   align-items: center;
   margin-right: auto;
-  
 }
 .heading-button {
   display: flex;
@@ -407,6 +394,5 @@ img {
   background-color: #ffffff;
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
     0px 2px 1px rgba(0, 0, 0, 0.2);
-margin-bottom: 30px;
-
+  margin-bottom: 30px;
 }
